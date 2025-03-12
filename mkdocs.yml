@@ -1,5 +1,4 @@
 site_name: EWT Docs
-site_url: https://abdurrahimagca.github.io/docs-ewt/
 theme:
   name: material
   palette:
