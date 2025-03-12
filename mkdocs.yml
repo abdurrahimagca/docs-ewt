@@ -1,5 +1,4 @@
 site_name: EWT Docs
-site_url: https://docs-ewt.homelab-kaleici.space
 theme:
   name: material
   palette:
