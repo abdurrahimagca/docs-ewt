@@ -1,3 +1,4 @@
+**Proje henüz geliştirme aşamasındadır. Bu ve sonrasında dökümanlar tamamen dahi değişeblir.**
 # Kullanıcı Dokümantasyonu
 
 Bu dokümantasyon, EWT sisteminin temel bileşenlerini ve sorumluluklarını açıklamaktadır. Sistem temel olarak iki ana bileşenden oluşmaktadır: Strapi ve Shopware. Strapi, ürünlerden bağımsız içerik yönetiminden sorumluyken, Shopware ürün yönetimi, kullanıcı yönetimi ve site yönlendirmelerinden sorumludur.
