@@ -45,3 +45,5 @@ Sistem, hem Shopware hem de Strapi üzerinde aşağıdaki dil seçeneklerini des
 ![Çoklu Dil Desteği](../assets/images/user/004site.png)
 
 **Not**: Strapi üzerinde içerik düzenlemesi yaparken yalnızca **Content Manager** bölümüyle ilgilenmeniz yeterlidir. Strapi üzerinde çoğu yetkinin kısıtlanmış olması normal bir durumdur ve varsayılan bir güvenlik önlemidir. Örneğin yeni bir içerik türü oluşturmak canlıda tamamen kapalıdır. İçeriklerde yapılan bir değişikliğin özellikle stable bir yayında anında yansımaması doğaldır. İçerikler cache'e zorlanmış olabilir.
+
+**Planned**: Strapi veya Shopware'e erişim ileride VPN ile kısıtlanabilir. Ekstra bir güvenlik getirirken sisteme erişim sistem VPN'i üzerinden olmak zorunda kalabilir/kalacaktır.
