@@ -1,0 +1,10 @@
+.md-grid {
+  max-width: 90%;
+}
+
+/* Make the logo bigger */
+.md-header__button.md-logo img,
+.md-nav__button img {
+  height: 2rem;
+  width: auto;
+}
